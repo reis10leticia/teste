@@ -1,0 +1,18 @@
+* {
+    font-family: 'verdana';
+    font-size: 1rem;
+    padding: 0 .5rem;
+    text-align: justify;
+    background-color: lightblue;
+}
+
+#enigma {
+    color: white;
+}
+
+.title {
+    font-family: 'Old English Text MT';
+    font-size: 4.5rem;
+    text-align: center;
+    padding: 0;
+}
